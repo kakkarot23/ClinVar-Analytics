@@ -1,0 +1,13 @@
+feature,missing_count,missing_percentage,missingness_category
+GERP++RS,0,0.0,No Missing Values
+polyphen2_HVAR_score,0,0.0,No Missing Values
+polyphen2_HDIV_score,0,0.0,No Missing Values
+sift_score,0,0.0,No Missing Values
+metaSVM_score,0,0.0,No Missing Values
+alphamissense_pred,0,0.0,No Missing Values
+alphamissense_score,0,0.0,No Missing Values
+metaRNN_score,0,0.0,No Missing Values
+metaLR_score,0,0.0,No Missing Values
+CADD_phred,0,0.0,No Missing Values
+varity_r_score,0,0.0,No Missing Values
+AF_avg,0,0.0,No Missing Values

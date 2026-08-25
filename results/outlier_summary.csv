@@ -1,0 +1,13 @@
+feature,outlier_count_IQR,outlier_percentage_IQR,lower_bound_IQR,upper_bound_IQR
+GERP++RS,42747,11.5892325085197,1.0,1.0
+polyphen2_HVAR_score,0,0.0,-1.5,2.5
+polyphen2_HDIV_score,0,0.0,-1.5,2.5
+sift_score,39565,10.72655354058956,0.0,0.0
+metaSVM_score,72497,19.65481996795454,0.0,0.0
+alphamissense_pred,0,0.0,-0.75,1.25
+alphamissense_score,87625,23.756205080100095,0.0,0.0
+metaRNN_score,0,0.0,-1.5,2.5
+metaLR_score,0,0.0,-1.5,2.5
+CADD_phred,37870,10.267018389539407,1.0,1.0
+varity_r_score,0,0.0,-1.5,2.5
+AF_avg,0,0.0,-1.5,2.5

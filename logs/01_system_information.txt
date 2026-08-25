@@ -1,0 +1,7 @@
+OS: Windows 11 (10.0.26200)
+Architecture: 64bit
+Machine: AMD64
+Processor: AMD64 Family 23 Model 104 Stepping 1, AuthenticAMD
+Python Executable: C:\Program Files\Python314\python.exe
+Host: J
+GPU Info: GPU: Not available / not configured

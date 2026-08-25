@@ -1,0 +1,13 @@
+column_name,datatype,unique_values_count,class_counts,class_percentages,candidate_status
+GERP++RS,int64,2,"{1: 326104, 0: 42747}","{1: 88.41, 0: 11.59}",FEATURE
+polyphen2_HVAR_score,int64,2,"{0: 202042, 1: 166809}","{0: 54.78, 1: 45.22}",FEATURE
+polyphen2_HDIV_score,int64,2,"{1: 209374, 0: 159477}","{1: 56.76, 0: 43.24}",FEATURE
+sift_score,int64,2,"{0: 329286, 1: 39565}","{0: 89.27, 1: 10.73}",FEATURE
+metaSVM_score,int64,2,"{0: 296354, 1: 72497}","{0: 80.35, 1: 19.65}",FEATURE
+alphamissense_pred,float64,3,"{0.0: 224626, 0.5: 74124, 1.0: 70101}","{0.0: 60.9, 0.5: 20.1, 1.0: 19.01}",PRIMARY TARGET
+alphamissense_score,int64,2,"{0: 281226, 1: 87625}","{0: 76.24, 1: 23.76}",SECONDARY CANDIDATE
+metaRNN_score,int64,2,"{0: 220589, 1: 148262}","{0: 59.8, 1: 40.2}",FEATURE
+metaLR_score,int64,2,"{0: 224539, 1: 144312}","{0: 60.88, 1: 39.12}",FEATURE
+CADD_phred,int64,2,"{1: 330981, 0: 37870}","{1: 89.73, 0: 10.27}",SECONDARY CANDIDATE
+varity_r_score,int64,2,"{0: 263222, 1: 105629}","{0: 71.36, 1: 28.64}",SECONDARY CANDIDATE
+AF_avg,int64,2,"{0: 199338, 1: 169513}","{0: 54.04, 1: 45.96}",SECONDARY CANDIDATE

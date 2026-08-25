@@ -1,0 +1,8 @@
+{
+    "dataset_name": "binary_df.csv",
+    "total_rows": 368851,
+    "exact_duplicate_rows": 367512,
+    "duplicate_percentage": 99.63698078627955,
+    "unique_rows": 1339,
+    "action_taken": "Documented only. De-duplication deferred to preprocessing phase."
+}
